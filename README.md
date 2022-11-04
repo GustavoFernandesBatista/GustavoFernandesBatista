@@ -1,7 +1,6 @@
 Olá eu sou o Gustavo Fernandes
 
 
-- 🔭 Procurando a primeira oportunidade na programação
 - 🌱 Estudando Swift 
 - 😄 Pronouns: ele/dele
 
