@@ -2,7 +2,6 @@ Olá eu sou o Gustavo Fernandes
 
 
 - 🌱 Estudando Swift 
-- 😄 Pronouns: ele/dele
 
 ##
 
