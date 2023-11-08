@@ -3,7 +3,7 @@
 </head>
 <body>
     <h1>Gustavo Fernandes</h1>
-    <img align="center" height="300" width="300" src="https://avatars.githubusercontent.com/u/108647437?v=4" alt="Sua Foto de Perfil" class="profile-image">
+    <img align="center" height="300" width="300" src="https://twitter.com/Gustavo10234774/status/1722308595599987047/photo/1" alt="Sua Foto de Perfil" class="profile-image">
     <p>Olá eu sou o Gustavo Fernandes e atualmente estou estudando Swift , SwiftUI e Java.
 </p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/gustavo-fernandes-49b495234/">Gustavo Fernandes</a></p>
