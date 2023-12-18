@@ -4,7 +4,7 @@
 <body>
     <h1>Gustavo Fernandes</h1>
     <img align="center" height="300" width="250" src="https://pbs.twimg.com/media/F-bfFdNWMAAaE8B?format=png&name=small" alt="Sua Foto de Perfil" class="profile-image">
-    <p>Olá eu sou o Gustavo Fernandes e atualmente estou estudando Swift , SwiftUI e Java.
+    <p>Olá eu sou o Gustavo Fernandes e atualmente estou estudando Swift , SwiftUI, Flutter e Java.
 </p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/gustavo-fernandes-49b495234/">Gustavo Fernandes</a></p>
 </body>
